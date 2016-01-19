@@ -19,6 +19,9 @@ The haiku is great but the
 [commit history](https://github.com/bast/git-rebase-squash-exercise/commits/haiku) on
 the `haiku` branch is not (on purpose).
 
+Also have a look at the
+[branch network](https://github.com/bast/git-rebase-squash-exercise/network).
+
 Your task is to clone this repository and to rebase the `haiku` branch on top
 of `master` and squash the several small "incomplete" commits into one single
 self-contained cherry-pickable commit.
